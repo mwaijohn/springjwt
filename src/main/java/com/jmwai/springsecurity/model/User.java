@@ -18,7 +18,6 @@ import static javax.persistence.GenerationType.AUTO;
  * @since 7/10/2021
  */
 @Entity
-@Table(name="user")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
